@@ -1,5 +1,5 @@
 # K2shirt
-***Generate a sick K2 t-shirt that looks just like real Kepler data.***
+***Generate a K2 t-shirt design that looks just like real Kepler data.***
 
 ### Usage
 
